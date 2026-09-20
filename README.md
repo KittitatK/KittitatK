@@ -1,77 +1,129 @@
-<h1 align="center">Hi 👋, I'm Kittitat Khantham(Champ)</h1>
-<h3 align="center">student in SE RMUTL</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kittitatk&label=Profile%20views&color=0e75b6&style=flat" alt="kittitatk" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kittitatk" alt="kittitatk" /></a> </p>
-
-- 🔭 I’m currently study on **Se rmutl**
-
-- 🌱 I’m currently learning **Python/C**
-
-- 📫 How to reach me **kittiat.kh@live.rmutl.ac.th**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/khantham kittitat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khantham kittitat" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kittitatk&show_icons=true&locale=en&layout=compact" alt="kittitatk" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kittitatk&show_icons=true&locale=en" alt="kittitatk" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kittitatk&" alt="kittitatk" /></p>
-
-
-
-
-
-<h1 align="center">Hey 👋What's Up?</h1>
-
-###
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+
+  <!-- Header Typing SVG Animation -->
+  <a href="https://github.com/kittitatk">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=61AFEF&center=true&vCenter=true&width=650&height=70&lines=Hi+there%2C+I'm+Kittitat+Khantham+%F0%9F%91%8B;Software+Engineering+Student+%40+RMUTL+%F0%9F%8E%93;Passionate+Developer+%26+Tech+Explorer+%E2%9A%A1;Turning+Coffee+into+Code+%E2%98%95" alt="Typing Header" />
+  </a>
+
+  <p align="center">
+    <strong>🎓 Software Engineering Student at RMUTL (Rajamangala University of Technology Lanna)</strong>
+  </p>
+
+  <!-- Profile Badges & Views -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=kittitatk&label=Profile%20Views&color=61afef&style=flat-square" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/Status-Coding%20%26%20Learning-2ea44f?style=flat-square" alt="Status" />
+    <img src="https://img.shields.io/badge/Location-Chiang%20Mai%2C%20Thailand-blueviolet?style=flat-square" alt="Location" />
+  </p>
+
 </div>
 
-###
+---
+
+### 💫 About Me
+
+```yaml
+name: Kittitat Khantham (Champ)
+role: Software Engineering Student
+university: RMUTL (Chiang Mai, Thailand)
+currently_learning: [Python, C, Modern Web Tech]
+interests: [Software Development, 3D Modeling, System Architecture]
+email: kittiat.kh@live.rmutl.ac.th
+quote: "Code is like humor. When you have to explain it, it’s bad."
+```
+
+- 🔭 **Studying**: Software Engineering at **RMUTL**
+- 🌱 **Currently Master & Exploring**: **Python**, **C**, Systems & Modern Web Applications
+- 🎨 **Creative Side**: 3D Design with **Blender** & Graphic Editing with **Photoshop**
+- ⚡ **Fun Fact**: Love learning new technologies, debugging, and building cool things from scratch!
+
+---
+
+### 🛠️ Languages & Technologies
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+
+  <!-- Core Languages -->
+  <p><strong>💻 Languages</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,python,js,ts,html,css" alt="Languages" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Frameworks, Tools & OS -->
+  <p><strong>⚙️ Frameworks, Tools & Environments</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,git,github,linux,docker,vscode" alt="Frameworks and Tools" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Design & Creative -->
+  <p><strong>🎨 Creative & Design Software</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=blender,ps,figma" alt="Design Tools" />
+  </a>
+
 </div>
 
-###
+---
+
+### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=kittitatk&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&margin-h=4&column=7" alt="GitHub Trophies" width="100%" />
+  </a>
 </div>
 
-###
+---
 
-###
+### 📊 GitHub Activity & Statistics
+
+<div align="center">
+  <!-- Top Languages & Overall Stats -->
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=kittitatk&show_icons=true&theme=tokyonight&hide_border=false&border_radius=8&locale=en" width="100%" alt="GitHub Stats" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kittitatk&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=false&border_radius=8" width="100%" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+
+  <!-- Streak Stats Card -->
+  <img src="https://streak-stats.demolab.com?user=kittitatk&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=8" alt="Streak Stats" width="85%" />
+</div>
+
+---
+
+### 🌐 Connect With Me
+
+<div align="center">
+
+  <a href="mailto:kittiat.kh@live.rmutl.ac.th" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://fb.com/khantham.kittitat" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/kittitatk" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://discord.com" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=100&section=footer" width="100%"/>
+</div>
